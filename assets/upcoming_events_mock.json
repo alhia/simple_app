@@ -1,0 +1,64 @@
+{
+  "events": [
+    {
+      "name": "Kaymbo",
+      "date": "2021-07-06T20:40:30Z",
+      "price": 208.99,
+      "currency": "EUR"
+    },
+    {
+      "name": "Skaboo",
+      "date": "2021-08-26T01:20:54Z",
+      "price": 67.9,
+      "currency": "EUR"
+    },
+    {
+      "name": "Rhynoodle",
+      "date": "2021-10-29T10:38:40Z",
+      "price": 576,
+      "currency": "USD"
+    },
+    {
+      "name": "Katz",
+      "date": "2021-03-12T00:30:04Z",
+      "price": 11.98,
+      "currency": "JPY"
+    },
+    {
+      "name": "Youspan",
+      "date": "2021-10-24T06:45:39Z",
+      "price": 32,
+      "currency": "GBP"
+    },
+    {
+      "name": "Topiclounge",
+      "date": "2021-10-08T06:44:46Z",
+      "price": 776.5,
+      "currency": "EUR"
+    },
+    {
+      "name": "Flipbug",
+      "date": "2021-07-21T07:51:21Z",
+      "price": 558.7,
+      "currency": "EUR"
+    },
+    {
+      "name": "Leexo",
+      "date": "2021-01-14T07:47:14Z",
+      "price": 241.5,
+      "currency": "USD"
+    },
+    {
+      "name": "Bubblebox",
+      "date": "2021-12-04T05:30:13Z",
+      "price": 116.99,
+      "currency": "JPY"
+    },
+    {
+      "name": "Ozu",
+      "date": "2021-04-23T17:59:53Z",
+      "price": 349,
+      "currency": "EUR"
+    }
+  ]
+}
